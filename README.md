@@ -1,3 +1,5 @@
 # PhyMat-Python
-Random Python and physics projects born as a result of my eternal boredom
-These codes are random and are made because i am too lazy to use my hands 
+This Repository consists of two main codes:
+
+	1)QT.py - Calculates Transmission coefficient for Quantum Tunneling.
+	2)heisenberg.py - Calculates Variation in Energy, Time, Displacement or Momentum depending on user choice.
